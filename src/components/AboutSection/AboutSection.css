@@ -1,0 +1,30 @@
+.aboutSection{
+  height: 100%;
+}
+.headerContainer{
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 35px;
+  margin-top: 35px;
+}
+.smallHeader{
+  color: #fff;
+  font-size: 50px;
+}
+.mainHeader{
+  color: #e1e1e1;
+  font-size: 80px;
+  font-weight: bolder;
+}
+.positionHeader{
+  color:grey;
+  font-size: 30px;
+}
+.arrowContainer{
+  position: absolute;
+  bottom: 15px;
+  width: 100%;
+}
