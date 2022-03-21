@@ -30,7 +30,7 @@ const projects = [
     key: 3,
     name: "Inipay",
     about:
-      "I'm currently working at Inipop LCC, here I'm in charge of the mobile development and, working side by side with an amazing team, we created a digital payment system that can work without an internet conection, using a LoRaWAN network. I'm the lead mobile developer, it means that I'm in charge of both the mobile app and the POS app. This project is currently on open beta testing and it's deployed on Play Store (only the mobile app). This service is only operative in Argentina for now, but we are planning an expansion to Latam soon.",
+      "I'm currently working at Inipop LCC, here I'm in charge of the mobile development and, working side by side with an amazing team, we created a digital payment system that can work without an internet conection, using a LoRaWAN network. I'm the lead mobile developer, it means that I'm in charge of both the mobile app and the POS app. This project is currently on open beta testing and it's deployed on Play Store (only the mobile app). This service is currently operating only in Argentina, but we are planning an expansion to Latam soon.",
     technologies:
       "Here i used React Native for the main structure of the apps, some graphical elements libraries and a bit of Java to integrate various system functions (such as Bluetooth, GPS, Biometrical authentication, etc)",
     logo: inipay,
