@@ -48,7 +48,7 @@ function ServicesSection() {
       />
       <LeftItem
         img={teamwork}
-        title="Team Working"
+        title="Great Team Working"
         content="Work with others to build a team that exceedes the expectations"
       />
       <RightItem
